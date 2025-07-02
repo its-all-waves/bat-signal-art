@@ -1,0 +1,7 @@
+*
+
+# track only...
+!*.zip
+!*.md
+!.gitignore
+!compress.sh
